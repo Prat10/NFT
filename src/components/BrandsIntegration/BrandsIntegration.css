@@ -1,0 +1,29 @@
+.brands-integration{
+    background:var(--background);
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 400px;
+    margin-top: 24px;
+    overflow: hidden;
+    border: 5px outset purple;
+    border-radius: 20px;
+}
+.first{
+   margin-right: 34px;
+}
+.img-bg{
+   margin-left: 100px;
+   margin-top: 25px;
+   width: 120px;
+   height: 100px;
+   border: 3px outset blueviolet;
+   cursor: pointer;
+}
+.wallet{
+    font-size: 50px;
+    font-weight: 600;
+    font-family: 'Montserrat';
+    margin-top: 12px;
+    margin-left: 5%;
+}
